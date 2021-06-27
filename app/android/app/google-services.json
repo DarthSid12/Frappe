@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "134006795273",
+    "project_id": "fridge-smart",
+    "storage_bucket": "fridge-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134006795273:android:3a9720a3a701b544e39cd8",
+        "android_client_info": {
+          "package_name": "com.flutterflow.frappe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134006795273-5p2roc7d692aarg0n6li8p9q8eeigovd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqDxpfBWQnUOTPpbbVNkXUXxacnwO2Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134006795273-5p2roc7d692aarg0n6li8p9q8eeigovd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134006795273-1kpn6agvje2h53p6jl2jh8jlgn60hfgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.frappe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
